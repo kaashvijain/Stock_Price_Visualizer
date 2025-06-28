@@ -1,5 +1,4 @@
-# Stock_Price_Visualizer
-Made in Jupyter Notebook 
+# Stock Price Visualizer
 ---------------
 Stock Price Visualizer is an interactive stock price comparison tool built in a Jupyter Notebook using Python. It allows users to:
 - See stock price trends for a company of choice
