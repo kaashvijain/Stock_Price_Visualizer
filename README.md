@@ -15,16 +15,17 @@ Stock Price Visualizer is an interactive stock price comparison tool built in a 
 - matplotlib
 - ipywidgets
 --------
-## Setup
-Install Jupyter Notebook
+## How to Setup and Use
+1. Install Jupyter Notebook and required libraries (yfinance, matplotlib, and ipywidgets).
+2. Launch the notebook.
+3. Open the .ipynb file in your browser.
+4. Give required inputs.
+5. Click run to visualize and save the stock performance.
+Note: - Comparing Indian and International companies may result in inaccurate plots due to currency difference. 
+      - You can find all ticker symbols at https://stockanalysis.com/stocks/
+      - Make sure to append .NS for Indian Companies
+------------------
+## Example Outputs
 
-bash
-Copy
-Edit
-pip install notebook
-Install Required Libraries
-
-bash
-Copy
-Edit
-pip install yfinance matplotlib ipywidgets
+![TCS NS_stock_plot](https://github.com/user-attachments/assets/ff7fca68-b42b-49a7-b51d-e892d0df4a1c) <br>
+![stock_plot](https://github.com/user-attachments/assets/70777490-c52e-441e-99cf-217c10e1f282)
