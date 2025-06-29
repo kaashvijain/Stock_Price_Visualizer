@@ -26,6 +26,6 @@ Note: - Comparing Indian and International companies may result in inaccurate pl
 ------------------
 ## Example Outputs
 
-![TCS NS_stock_plot](https://github.com/user-attachments/assets/ff7fca68-b42b-49a7-b51d-e892d0df4a1c) <br>
+![AAPL_stock_plot](https://github.com/user-attachments/assets/481e7cfa-d8b9-4403-8920-d82dc8921d0e) <br>
 ![stock_plot](https://github.com/user-attachments/assets/e039a8e3-3630-448d-bcd8-b29289129504)
 
